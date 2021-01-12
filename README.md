@@ -1,4 +1,4 @@
-# SQL Injection with Sequelize
+# SQL Injection with Sequelize #
 
 This application is a demonstration prototype just to show how to perform SQLi attack.
 
